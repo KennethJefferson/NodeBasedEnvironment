@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "@shadcn/ui": "^0.0.4",
+    "@types/node": "^22.8.1",
+    "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "autoprefixer": "^10.4.20",
+    "lucide-react": "^0.453.0",
+    "postcss": "^8.4.47",
+    "reactflow": "^11.11.4",
+    "tailwindcss": "^3.4.14"
+  }
+}
